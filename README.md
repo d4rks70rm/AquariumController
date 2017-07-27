@@ -1,2 +1,2 @@
 # AquariumController
-Controll an Aquarium punp, light and temperature using nodeMCU and MQTT
+Controll an Aquarium pump and light and monitor the water temperature using nodeMCU and MQTT
